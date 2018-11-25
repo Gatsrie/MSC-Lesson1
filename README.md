@@ -4,6 +4,7 @@
 
 ```
 <?php
+echo "hello world";
 ?>
 ```
 
