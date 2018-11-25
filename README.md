@@ -6,6 +6,7 @@
 
 ```
 <?php
+echo "hello world";
 ?>
 ```
 
